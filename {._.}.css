@@ -1,0 +1,13 @@
+html, body {
+	height: 100%;	
+	margin: 0;
+}
+
+.background-img {
+	background-image: url("MFDOOM.jpg");
+	background-size: cover;
+	position: fixed;
+	height: 100%;
+	left: 0;
+	right: 0;	
+}
